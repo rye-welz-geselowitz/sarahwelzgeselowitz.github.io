@@ -3,13 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Totally becoming a dramatically better programmer at the [Recurse Center](https://www.recurse.com/).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sarahgeselowitz@gmail.com](mailto:sarahgeselowitz@gmail.com)

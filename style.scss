@@ -283,6 +283,28 @@ footer {
   text-align: center;
 }
 
+.caption{
+  font-size: 14px;
+  color: gray;
+  text-align: center;
+}
+
+img.border{
+  border: solid 1px gray;
+}
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+.center-image.small{
+  width: 200px;
+}
+img{
+  width: 400px;
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
