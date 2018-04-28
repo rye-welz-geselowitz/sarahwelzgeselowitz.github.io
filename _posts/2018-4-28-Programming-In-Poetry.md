@@ -37,7 +37,7 @@ things up. And now we're done - get out, take a hike!
 
 Despite this code’s self-documenting nature, it’s pretty hard to read as machine instructions. A human reader scanning the code for a function would have to search not for the keyword "function" (as in JavaScript), but for a line whose first and last words rhyme. (In this case, that’s line 2.) The number zero looks not like the familiar symbol “0,” but like a rhyming couplet in which no words are alliterative with the first word (lines 6-7, "Now I'll...zero in") . And so on!
 
-The upside of all this is that programmer-poets are free to use their code to express whatever they want. In this next implementation, the machine is asked to evaluate whether a number is zero, while the human reader is asked to ponder the nature of nothingness. (Because what else does one think about when comparing numbers to zero?) Though it reads quite differently from the previous implementation, this version is syntactically identical:
+The upside of all this is that programmer-poets are free to use their code to express whatever they want. In this next implementation, the machine is asked to evaluate whether a number is zero, while the human reader is asked to ponder the nature of nothingness. (Because what else does one think about when comparing numbers to zero?) Though it reads quite differently from the previous implementation, this version is, as far as the machine is concerned, syntactically identical:
 
 ```
 I wonder what nothingness looks like
